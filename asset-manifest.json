@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Personal-Website/static/css/main.0661a0ab.css",
-    "main.js": "/Personal-Website/static/js/main.f9289bf3.js",
-    "static/media/KG.png": "/Personal-Website/static/media/KG.1c3dbdf0cc3b0817a933.png",
-    "static/media/lync.png": "/Personal-Website/static/media/lync.e97309b9811ea3857034.png",
-    "static/media/TF.png": "/Personal-Website/static/media/TF.42ff285e754b23972de0.png",
-    "static/media/flutter.png": "/Personal-Website/static/media/flutter.f4406299c32eab2be683.png",
-    "static/media/java.png": "/Personal-Website/static/media/java.464af9963a07a4d238d7.png",
-    "static/media/vitality.png": "/Personal-Website/static/media/vitality.b4b604d3af609b79eb20.png",
-    "static/media/firebase.png": "/Personal-Website/static/media/firebase.a4156cb67d6d0676cffc.png",
-    "static/media/linux.svg": "/Personal-Website/static/media/linux.482ed32413182fff861a7572675025c8.svg",
-    "static/media/cpp.svg": "/Personal-Website/static/media/cpp.6e731ebced6403a1e26ed0e65a8dc9da.svg",
-    "static/media/arm.svg": "/Personal-Website/static/media/arm.70a04abd2a29e270566f0f0f8c42089d.svg",
-    "static/media/python.svg": "/Personal-Website/static/media/python.b1d6b85bb0fbd37e7213830675ed9809.svg",
-    "static/media/square-js.svg": "/Personal-Website/static/media/square-js.163cd6afb0f4c644ea969ff7f0714ad4.svg",
-    "index.html": "/Personal-Website/index.html",
-    "static/media/c-solid.svg": "/Personal-Website/static/media/c-solid.5ac445c761df90358698edd21c5997cf.svg",
-    "static/media/css3-alt.svg": "/Personal-Website/static/media/css3-alt.ab607ef91025f17cd23d0b09f471033b.svg",
-    "static/media/html5.svg": "/Personal-Website/static/media/html5.2bdd7259d54032f442015503b1caff62.svg",
-    "main.0661a0ab.css.map": "/Personal-Website/static/css/main.0661a0ab.css.map",
-    "main.f9289bf3.js.map": "/Personal-Website/static/js/main.f9289bf3.js.map"
+    "main.css": "/static/css/main.0661a0ab.css",
+    "main.js": "/static/js/main.6f99db36.js",
+    "static/media/KG.png": "/static/media/KG.1c3dbdf0cc3b0817a933.png",
+    "static/media/lync.png": "/static/media/lync.e97309b9811ea3857034.png",
+    "static/media/TF.png": "/static/media/TF.42ff285e754b23972de0.png",
+    "static/media/flutter.png": "/static/media/flutter.f4406299c32eab2be683.png",
+    "static/media/java.png": "/static/media/java.464af9963a07a4d238d7.png",
+    "static/media/vitality.png": "/static/media/vitality.b4b604d3af609b79eb20.png",
+    "static/media/firebase.png": "/static/media/firebase.a4156cb67d6d0676cffc.png",
+    "static/media/linux.svg": "/static/media/linux.482ed32413182fff861a7572675025c8.svg",
+    "static/media/cpp.svg": "/static/media/cpp.6e731ebced6403a1e26ed0e65a8dc9da.svg",
+    "static/media/arm.svg": "/static/media/arm.70a04abd2a29e270566f0f0f8c42089d.svg",
+    "static/media/python.svg": "/static/media/python.b1d6b85bb0fbd37e7213830675ed9809.svg",
+    "static/media/square-js.svg": "/static/media/square-js.163cd6afb0f4c644ea969ff7f0714ad4.svg",
+    "index.html": "/index.html",
+    "static/media/c-solid.svg": "/static/media/c-solid.5ac445c761df90358698edd21c5997cf.svg",
+    "static/media/css3-alt.svg": "/static/media/css3-alt.ab607ef91025f17cd23d0b09f471033b.svg",
+    "static/media/html5.svg": "/static/media/html5.2bdd7259d54032f442015503b1caff62.svg",
+    "main.0661a0ab.css.map": "/static/css/main.0661a0ab.css.map",
+    "main.6f99db36.js.map": "/static/js/main.6f99db36.js.map"
   },
   "entrypoints": [
     "static/css/main.0661a0ab.css",
-    "static/js/main.f9289bf3.js"
+    "static/js/main.6f99db36.js"
   ]
 }
