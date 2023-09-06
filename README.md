@@ -2,8 +2,6 @@
 
 Welcome to my personal website repository! This site showcases my portfolio, skills, and a bit about myself. I built it using ReactJS.
 
-![Website Screenshot](url_to_a_screenshot_of_your_website.png)
-
 ## Features
 * **Interactive Particles:** An engaging background animation to capture the essence of creativity and movement.
 * **About Me:** A section introducing me, my hobbies, interests, and my journey.
